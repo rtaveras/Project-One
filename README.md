@@ -1,5 +1,4 @@
-# Project-One
-Star Wars: A New Trivia
+# Star Wars: A New Trivia
 
 General Assembly P1
 
